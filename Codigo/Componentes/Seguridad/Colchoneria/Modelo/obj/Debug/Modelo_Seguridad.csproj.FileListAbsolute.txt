@@ -3,3 +3,9 @@ C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Componentes\Seguridad\Colc
 C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Componentes\Seguridad\Colchoneria\Modelo\obj\Debug\Modelo_Seguridad.csproj.CoreCompileInputs.cache
 C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Componentes\Seguridad\Colchoneria\Modelo\obj\Debug\Modelo_Seguridad.dll
 C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Componentes\Seguridad\Colchoneria\Modelo\obj\Debug\Modelo_Seguridad.pdb
+C:\Users\nivia\Desktop\Nueva carpeta\PrototipoEF\Codigo\Componentes\Seguridad\Colchoneria\Modelo\bin\Debug\Modelo_Seguridad.dll
+C:\Users\nivia\Desktop\Nueva carpeta\PrototipoEF\Codigo\Componentes\Seguridad\Colchoneria\Modelo\bin\Debug\Modelo_Seguridad.pdb
+C:\Users\nivia\Desktop\Nueva carpeta\PrototipoEF\Codigo\Componentes\Seguridad\Colchoneria\Modelo\obj\Debug\Modelo_Seguridad.csproj.AssemblyReference.cache
+C:\Users\nivia\Desktop\Nueva carpeta\PrototipoEF\Codigo\Componentes\Seguridad\Colchoneria\Modelo\obj\Debug\Modelo_Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\nivia\Desktop\Nueva carpeta\PrototipoEF\Codigo\Componentes\Seguridad\Colchoneria\Modelo\obj\Debug\Modelo_Seguridad.dll
+C:\Users\nivia\Desktop\Nueva carpeta\PrototipoEF\Codigo\Componentes\Seguridad\Colchoneria\Modelo\obj\Debug\Modelo_Seguridad.pdb

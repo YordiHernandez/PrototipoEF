@@ -18,3 +18,23 @@ C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Componentes\Navegador\Vist
 C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Componentes\Navegador\Vista\obj\Debug\NavegadorVista.csproj.CopyComplete
 C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Componentes\Navegador\Vista\obj\Debug\NavegadorVista.dll
 C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Componentes\Navegador\Vista\obj\Debug\NavegadorVista.pdb
+C:\Users\nivia\Desktop\Nueva carpeta\PrototipoEF\Codigo\Componentes\Navegador\Vista\bin\Debug\NavegadorVista.dll
+C:\Users\nivia\Desktop\Nueva carpeta\PrototipoEF\Codigo\Componentes\Navegador\Vista\bin\Debug\NavegadorVista.pdb
+C:\Users\nivia\Desktop\Nueva carpeta\PrototipoEF\Codigo\Componentes\Navegador\Vista\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\nivia\Desktop\Nueva carpeta\PrototipoEF\Codigo\Componentes\Navegador\Vista\bin\Debug\NavegadorControlador.dll
+C:\Users\nivia\Desktop\Nueva carpeta\PrototipoEF\Codigo\Componentes\Navegador\Vista\bin\Debug\Seguridad_Controlador.dll
+C:\Users\nivia\Desktop\Nueva carpeta\PrototipoEF\Codigo\Componentes\Navegador\Vista\bin\Debug\NavegadorModelo.dll
+C:\Users\nivia\Desktop\Nueva carpeta\PrototipoEF\Codigo\Componentes\Navegador\Vista\bin\Debug\Modelo_Seguridad.dll
+C:\Users\nivia\Desktop\Nueva carpeta\PrototipoEF\Codigo\Componentes\Navegador\Vista\bin\Debug\NavegadorControlador.pdb
+C:\Users\nivia\Desktop\Nueva carpeta\PrototipoEF\Codigo\Componentes\Navegador\Vista\bin\Debug\Seguridad_Controlador.pdb
+C:\Users\nivia\Desktop\Nueva carpeta\PrototipoEF\Codigo\Componentes\Navegador\Vista\bin\Debug\NavegadorModelo.pdb
+C:\Users\nivia\Desktop\Nueva carpeta\PrototipoEF\Codigo\Componentes\Navegador\Vista\bin\Debug\Modelo_Seguridad.pdb
+C:\Users\nivia\Desktop\Nueva carpeta\PrototipoEF\Codigo\Componentes\Navegador\Vista\obj\Debug\NavegadorVista.csproj.AssemblyReference.cache
+C:\Users\nivia\Desktop\Nueva carpeta\PrototipoEF\Codigo\Componentes\Navegador\Vista\obj\Debug\Vista.Ayuda.resources
+C:\Users\nivia\Desktop\Nueva carpeta\PrototipoEF\Codigo\Componentes\Navegador\Vista\obj\Debug\NavegadorVista.Navegador.resources
+C:\Users\nivia\Desktop\Nueva carpeta\PrototipoEF\Codigo\Componentes\Navegador\Vista\obj\Debug\NavegadorVista.Properties.Resources.resources
+C:\Users\nivia\Desktop\Nueva carpeta\PrototipoEF\Codigo\Componentes\Navegador\Vista\obj\Debug\NavegadorVista.csproj.GenerateResource.cache
+C:\Users\nivia\Desktop\Nueva carpeta\PrototipoEF\Codigo\Componentes\Navegador\Vista\obj\Debug\NavegadorVista.csproj.CoreCompileInputs.cache
+C:\Users\nivia\Desktop\Nueva carpeta\PrototipoEF\Codigo\Componentes\Navegador\Vista\obj\Debug\NavegadorVista.csproj.CopyComplete
+C:\Users\nivia\Desktop\Nueva carpeta\PrototipoEF\Codigo\Componentes\Navegador\Vista\obj\Debug\NavegadorVista.dll
+C:\Users\nivia\Desktop\Nueva carpeta\PrototipoEF\Codigo\Componentes\Navegador\Vista\obj\Debug\NavegadorVista.pdb
