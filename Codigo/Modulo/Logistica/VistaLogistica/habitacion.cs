@@ -50,20 +50,20 @@ namespace VistaLogistica
 
         private void navegador1_Load(object sender, EventArgs e)
         {
-
+            NavegadorVista.Navegador.idApp = "6001";
+            TextBox[] Grupotextbox = { TxtCodigo, TxtTipo, TxtNumero, TxtEstado };
+            TextBox[] Idtextbox = { TxtCodigo, TxtTipo, TxtNumero, TxtEstado };
+            navegador1.textbox = Grupotextbox;
+            navegador1.tabla = dataGridView1;
+            navegador1.textboxi = Idtextbox;
+            navegador1.actual = this;
+            navegador1.cargar(dataGridView1, Grupotextbox, "hotel_EF");
         }
 
-        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+       
+        private void checkBox1_CheckedChanged_1(object sender, EventArgs e)
         {
             checkbox();
         }
-
-        private void txtact_TextChanged(object sender, EventArgs e)
-        {
-            txtcheck();
-        }
-
-
-
     }
 }

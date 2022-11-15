@@ -146,7 +146,11 @@ namespace VistaLogistica
 
         private void btnTraslados_Click(object sender, EventArgs e)
         {
-            
+            Reserva b = new Reserva();
+            b.MdiParent = this;
+            b.Show();
+            hideSubMenu();
+            pictureBox2.Visible = false;
         }
 
         private void btntrans_Click(object sender, EventArgs e)
@@ -156,7 +160,11 @@ namespace VistaLogistica
 
         private void btnMuestreo_Click(object sender, EventArgs e)
         {
-            
+            ReporteReserva b = new ReporteReserva();
+            b.MdiParent = this;
+            b.Show();
+            hideSubMenu();
+            pictureBox2.Visible = false;
         }
 
         private void btaudito_Click(object sender, EventArgs e)

@@ -69,3 +69,7 @@ C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Componentes\Seguridad\Colc
 C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\NavegadorVista.pdb
 C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\NavegadorControlador.pdb
 C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\NavegadorModelo.pdb
+C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\ControladorLogistica.dll
+C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\ModeloLogistica.dll
+C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\ControladorLogistica.pdb
+C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\ModeloLogistica.pdb

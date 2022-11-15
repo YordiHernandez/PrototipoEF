@@ -107,17 +107,23 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <Compile Include="ReporteInventario.cs">
+    <Compile Include="ReporteReserva.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ReporteInventario.Designer.cs">
-      <DependentUpon>ReporteInventario.cs</DependentUpon>
+    <Compile Include="ReporteReserva.Designer.cs">
+      <DependentUpon>ReporteReserva.cs</DependentUpon>
     </Compile>
-    <Compile Include="ReporteriaMovimientos.cs">
+    <Compile Include="Reserva.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ReporteriaMovimientos.Designer.cs">
-      <DependentUpon>ReporteriaMovimientos.cs</DependentUpon>
+    <Compile Include="Reserva.Designer.cs">
+      <DependentUpon>Reserva.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RR.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RR.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
@@ -146,11 +152,15 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Include="ReporteInventario.resx">
-      <DependentUpon>ReporteInventario.cs</DependentUpon>
+    <EmbeddedResource Include="ReporteReserva.resx">
+      <DependentUpon>ReporteReserva.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="ReporteriaMovimientos.resx">
-      <DependentUpon>ReporteriaMovimientos.cs</DependentUpon>
+    <EmbeddedResource Include="Reserva.resx">
+      <DependentUpon>Reserva.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RR.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RR.cs</LastGenOutput>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>

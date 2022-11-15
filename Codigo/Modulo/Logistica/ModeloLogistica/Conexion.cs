@@ -12,7 +12,7 @@ namespace ModeloLogistica
         public OdbcConnection conexion()
         {
 
-            OdbcConnection conn = new OdbcConnection("Dsn=colchoneria");
+            OdbcConnection conn = new OdbcConnection("Dsn=hotel");
             try
             {
                 conn.Open();

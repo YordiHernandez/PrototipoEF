@@ -35,3 +35,14 @@ C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Componentes\Seguridad\Ejec
 C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\ShockwaveFlashObjects.dll
 C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\stdole.dll
 C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\VistaLogistica.pdb
+C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\NavegadorVista.dll
+C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\NavegadorControlador.dll
+C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\NavegadorModelo.dll
+C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\NavegadorVista.pdb
+C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\NavegadorControlador.pdb
+C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\NavegadorModelo.pdb
+C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\ControladorLogistica.dll
+C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\ModeloLogistica.dll
+C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\ControladorLogistica.pdb
+C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\ModeloLogistica.pdb

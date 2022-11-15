@@ -33,12 +33,12 @@ namespace VistaLogistica
             this.label4 = new System.Windows.Forms.Label();
             this.TxtEstado = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
-            this.textBox3 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.TxtApellido = new System.Windows.Forms.TextBox();
+            this.TxtNombre = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.TxtCodigo = new System.Windows.Forms.TextBox();
             this.navegador1 = new NavegadorVista.Navegador();
             this.checkBox1 = new System.Windows.Forms.CheckBox();
             this.groupBox1.SuspendLayout();
@@ -51,12 +51,12 @@ namespace VistaLogistica
             this.groupBox1.Controls.Add(this.label4);
             this.groupBox1.Controls.Add(this.TxtEstado);
             this.groupBox1.Controls.Add(this.label3);
-            this.groupBox1.Controls.Add(this.textBox3);
-            this.groupBox1.Controls.Add(this.textBox2);
+            this.groupBox1.Controls.Add(this.TxtApellido);
+            this.groupBox1.Controls.Add(this.TxtNombre);
             this.groupBox1.Controls.Add(this.label2);
             this.groupBox1.Controls.Add(this.label1);
             this.groupBox1.Controls.Add(this.dataGridView1);
-            this.groupBox1.Controls.Add(this.textBox1);
+            this.groupBox1.Controls.Add(this.TxtCodigo);
             this.groupBox1.Location = new System.Drawing.Point(8, 170);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(552, 277);
@@ -80,7 +80,9 @@ namespace VistaLogistica
             this.TxtEstado.Name = "TxtEstado";
             this.TxtEstado.Size = new System.Drawing.Size(15, 20);
             this.TxtEstado.TabIndex = 8;
+            this.TxtEstado.Tag = "estado_cliente";
             this.TxtEstado.Visible = false;
+            this.TxtEstado.TextChanged += new System.EventHandler(this.TxtEstado_TextChanged);
             // 
             // label3
             // 
@@ -91,19 +93,21 @@ namespace VistaLogistica
             this.label3.TabIndex = 7;
             this.label3.Text = "APELLIDO CLIENTE";
             // 
-            // textBox3
+            // TxtApellido
             // 
-            this.textBox3.Location = new System.Drawing.Point(342, 43);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(147, 20);
-            this.textBox3.TabIndex = 6;
+            this.TxtApellido.Location = new System.Drawing.Point(342, 43);
+            this.TxtApellido.Name = "TxtApellido";
+            this.TxtApellido.Size = new System.Drawing.Size(147, 20);
+            this.TxtApellido.TabIndex = 6;
+            this.TxtApellido.Tag = "apellido_cliente";
             // 
-            // textBox2
+            // TxtNombre
             // 
-            this.textBox2.Location = new System.Drawing.Point(9, 82);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(153, 20);
-            this.textBox2.TabIndex = 5;
+            this.TxtNombre.Location = new System.Drawing.Point(9, 82);
+            this.TxtNombre.Name = "TxtNombre";
+            this.TxtNombre.Size = new System.Drawing.Size(153, 20);
+            this.TxtNombre.TabIndex = 5;
+            this.TxtNombre.Tag = "nombre_cliente";
             // 
             // label2
             // 
@@ -130,13 +134,16 @@ namespace VistaLogistica
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.Size = new System.Drawing.Size(540, 163);
             this.dataGridView1.TabIndex = 2;
+            this.dataGridView1.Tag = "tbl_cliente";
             // 
-            // textBox1
+            // TxtCodigo
             // 
-            this.textBox1.Location = new System.Drawing.Point(9, 43);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(153, 20);
-            this.textBox1.TabIndex = 1;
+            this.TxtCodigo.Location = new System.Drawing.Point(9, 43);
+            this.TxtCodigo.Name = "TxtCodigo";
+            this.TxtCodigo.Size = new System.Drawing.Size(153, 20);
+            this.TxtCodigo.TabIndex = 1;
+            this.TxtCodigo.Tag = "codigo_cliente";
+            this.TxtCodigo.TextChanged += new System.EventHandler(this.TxtCodigo_TextChanged);
             // 
             // navegador1
             // 
@@ -144,6 +151,7 @@ namespace VistaLogistica
             this.navegador1.Name = "navegador1";
             this.navegador1.Size = new System.Drawing.Size(574, 152);
             this.navegador1.TabIndex = 3;
+            this.navegador1.Load += new System.EventHandler(this.navegador1_Load);
             // 
             // checkBox1
             // 
@@ -154,6 +162,7 @@ namespace VistaLogistica
             this.checkBox1.TabIndex = 10;
             this.checkBox1.Text = "ACTIVO";
             this.checkBox1.UseVisualStyleBackColor = true;
+            this.checkBox1.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
             // 
             // Form1
             // 
@@ -177,12 +186,12 @@ namespace VistaLogistica
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.TextBox TxtEstado;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.TextBox textBox3;
-        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.TextBox TxtApellido;
+        private System.Windows.Forms.TextBox TxtNombre;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.DataGridView dataGridView1;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox TxtCodigo;
         private NavegadorVista.Navegador navegador1;
         private System.Windows.Forms.CheckBox checkBox1;
     }

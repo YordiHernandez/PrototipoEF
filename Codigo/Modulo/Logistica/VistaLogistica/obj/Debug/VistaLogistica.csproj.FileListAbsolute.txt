@@ -1,8 +1,6 @@
 C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Modulo\Logistica\VistaLogistica\obj\Debug\VistaLogistica.csproj.AssemblyReference.cache
 C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Modulo\Logistica\VistaLogistica\obj\Debug\VistaLogistica.Menu.resources
 C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Modulo\Logistica\VistaLogistica\obj\Debug\VistaLogistica.Properties.Resources.resources
-C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Modulo\Logistica\VistaLogistica\obj\Debug\VistaLogistica.ReporteInventario.resources
-C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Modulo\Logistica\VistaLogistica\obj\Debug\VistaLogistica.ReporteriaMovimientos.resources
 C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Modulo\Logistica\VistaLogistica\obj\Debug\VistaLogistica.csproj.GenerateResource.cache
 C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Modulo\Logistica\VistaLogistica\obj\Debug\VistaLogistica.csproj.CoreCompileInputs.cache
 C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Modulo\Logistica\VistaLogistica\bin\Debug\VistaLogistica.dll
@@ -48,3 +46,5 @@ C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Modulo\Logistica\VistaLogi
 C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Modulo\Logistica\VistaLogistica\obj\Debug\VistaLogistica.pdb
 C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Modulo\Logistica\VistaLogistica\obj\Debug\VistaLogistica.Form1.resources
 C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Modulo\Logistica\VistaLogistica\obj\Debug\VistaLogistica.habitacion.resources
+C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Modulo\Logistica\VistaLogistica\obj\Debug\VistaLogistica.Reserva.resources
+C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Modulo\Logistica\VistaLogistica\obj\Debug\VistaLogistica.ReporteReserva.resources
