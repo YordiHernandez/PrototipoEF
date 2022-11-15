@@ -1,0 +1,6 @@
+C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Modulo\Logistica\ModeloLogistica\bin\Debug\ModeloLogistica.dll
+C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Modulo\Logistica\ModeloLogistica\bin\Debug\ModeloLogistica.pdb
+C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Modulo\Logistica\ModeloLogistica\obj\Debug\ModeloLogistica.csproj.AssemblyReference.cache
+C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Modulo\Logistica\ModeloLogistica\obj\Debug\ModeloLogistica.csproj.CoreCompileInputs.cache
+C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Modulo\Logistica\ModeloLogistica\obj\Debug\ModeloLogistica.dll
+C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Modulo\Logistica\ModeloLogistica\obj\Debug\ModeloLogistica.pdb
