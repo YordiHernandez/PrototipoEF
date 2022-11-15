@@ -1,0 +1,9 @@
+C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Modulo\Logistica\ControladorLogistica\obj\Debug\ControladorLogistica.csproj.AssemblyReference.cache
+C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Modulo\Logistica\ControladorLogistica\obj\Debug\ControladorLogistica.csproj.CoreCompileInputs.cache
+C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Modulo\Logistica\ControladorLogistica\bin\Debug\ControladorLogistica.dll
+C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Modulo\Logistica\ControladorLogistica\bin\Debug\ControladorLogistica.pdb
+C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Modulo\Logistica\ControladorLogistica\bin\Debug\ModeloLogistica.dll
+C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Modulo\Logistica\ControladorLogistica\bin\Debug\ModeloLogistica.pdb
+C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Modulo\Logistica\ControladorLogistica\obj\Debug\ControladorLogistica.csproj.CopyComplete
+C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Modulo\Logistica\ControladorLogistica\obj\Debug\ControladorLogistica.dll
+C:\Users\nivia\Desktop\PrototipoEF\PrototipoEF\Codigo\Modulo\Logistica\ControladorLogistica\obj\Debug\ControladorLogistica.pdb
